@@ -1,0 +1,22 @@
+.traits-m{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.header-m{
+    margin-bottom: 50px;
+}
+
+.light-text{
+    color: #363636 !important;
+    font-weight: 400 !important;
+}
+.section{
+    padding-bottom: 70px;
+}
+.icon-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
